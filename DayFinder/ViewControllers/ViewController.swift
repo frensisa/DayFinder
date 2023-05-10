@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         //resultLabel.layer.cornerRadius = 8
-       
+        
     }
 
     @IBAction func findButtonTapped(_ sender: Any) {
